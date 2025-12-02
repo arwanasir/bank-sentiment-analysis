@@ -1,0 +1,11 @@
+pandas
+numpy
+google-play-scraper
+psycopg2-binary
+python-dotenv
+matplotlib
+seaborn
+wordcloud
+nltk
+textblob
+jupyter

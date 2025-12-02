@@ -1,0 +1,154 @@
+{
+  "Commercial Bank Of Ethiopia": {
+    "themes": {
+      "Login & Account Access": [
+        "app",
+        "application",
+        "bank",
+        "banking",
+        "best"
+      ],
+      "Transaction & Transfer": [
+        "best app",
+        "branch",
+        "cbe",
+        "good",
+        "good app",
+        "money"
+      ],
+      "App Performance": [
+        "great",
+        "like",
+        "nice",
+        "time",
+        "update",
+        "work"
+      ],
+      "User Interface": [
+        "use",
+        "\u1290\u12cd"
+      ],
+      "Customer Support": [
+        "service"
+      ]
+    },
+    "examples": {
+      "Login & Account Access": [
+        "good app",
+        "This application is very important and advantage for transfer of money and finan..."
+      ],
+      "Transaction & Transfer": [
+        "CBE \u12ed\u1208\u12eb\u120d\u1362",
+        "The app makes our life easier. Thank you CBE!"
+      ],
+      "App Performance": [
+        "It is nice app",
+        "nice app..."
+      ],
+      "User Interface": [
+        "Make it user friendly.",
+        "thanks blc this app help me to use all time"
+      ],
+      "Customer Support": [
+        "very good banking service and fast service"
+      ]
+    }
+  },
+  "Bank Of Abyssinia": {
+    "themes": {
+      "Login & Account Access": [
+        "app",
+        "bank",
+        "banking",
+        "best",
+        "boa"
+      ],
+      "Transaction & Transfer": [
+        "developer",
+        "doesn",
+        "fix",
+        "good",
+        "like",
+        "money"
+      ],
+      "App Performance": [
+        "mobile",
+        "mobile banking",
+        "nice",
+        "time",
+        "update",
+        "work",
+        "working"
+      ],
+      "User Interface": [
+        "use",
+        "worst"
+      ]
+    },
+    "examples": {
+      "Login & Account Access": [
+        "I cant belive I could find the worst bank app ever .yet very simple to fix the p...",
+        "it is a good app"
+      ],
+      "Transaction & Transfer": [
+        "It keeps notifying me to disable developer options and quiet while I'm not enabl...",
+        "I cant belive I could find the worst bank app ever .yet very simple to fix the p..."
+      ],
+      "App Performance": [],
+      "User Interface": [
+        "not user friendly at all it requires a huge connectivity and also lags many time...",
+        "not use for me"
+      ]
+    }
+  },
+  "Dashen Bank": {
+    "themes": {
+      "Login & Account Access": [
+        "amazing",
+        "app",
+        "bank",
+        "banking",
+        "best"
+      ],
+      "Transaction & Transfer": [
+        "dashen",
+        "dashen bank",
+        "good",
+        "great",
+        "like"
+      ],
+      "App Performance": [
+        "fast",
+        "mobile",
+        "nice",
+        "super",
+        "super app",
+        "working"
+      ],
+      "User Interface": [
+        "easy",
+        "easy use",
+        "use",
+        "wow"
+      ]
+    },
+    "examples": {
+      "Login & Account Access": [
+        "very smart App easy to use and friendly",
+        "Very exemplery App to other Bank Aps !"
+      ],
+      "Transaction & Transfer": [
+        "good",
+        "its fast and easy to communicate to the app and its available all area keep it u..."
+      ],
+      "App Performance": [
+        "its fast and easy to communicate to the app and its available all area keep it u...",
+        "The Dashen Super App is very impressive. It is fast, easy to use, and provides s..."
+      ],
+      "User Interface": [
+        "very smart App easy to use and friendly",
+        "its fast and easy to communicate to the app and its available all area keep it u..."
+      ]
+    }
+  }
+}
