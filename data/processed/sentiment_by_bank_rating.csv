@@ -1,16 +1,16 @@
 bank,rating,avg_sentiment_score,positive_count,neutral_count,negative_count,total_reviews
-Commercial Bank Of Ethiopia,1,-0.049,9,33,14,56
-Commercial Bank Of Ethiopia,2,0.095,5,7,1,13
-Commercial Bank Of Ethiopia,3,0.144,11,10,2,23
-Commercial Bank Of Ethiopia,4,0.234,19,17,3,39
-Commercial Bank Of Ethiopia,5,0.434,176,92,1,269
-Bank Of Abyssinia,1,-0.105,22,67,45,134
-Bank Of Abyssinia,2,0.083,5,7,3,15
-Bank Of Abyssinia,3,0.12,11,7,4,22
-Bank Of Abyssinia,4,0.292,13,10,0,23
-Bank Of Abyssinia,5,0.43,122,82,2,206
-Dashen Bank,1,-0.136,13,33,27,73
+Commercial Bank of Ethiopia,1,-0.03,10,33,14,57
+Commercial Bank of Ethiopia,2,0.095,5,7,1,13
+Commercial Bank of Ethiopia,3,0.151,11,9,2,22
+Commercial Bank of Ethiopia,4,0.234,19,17,3,39
+Commercial Bank of Ethiopia,5,0.434,175,93,1,269
+Bank of Abyssinia,1,-0.099,23,66,46,135
+Bank of Abyssinia,2,0.078,5,8,3,16
+Bank of Abyssinia,3,0.092,10,7,4,21
+Bank of Abyssinia,4,0.292,13,10,0,23
+Bank of Abyssinia,5,0.432,122,81,2,205
+Dashen Bank,1,-0.132,13,35,27,75
 Dashen Bank,2,0.114,7,8,3,18
 Dashen Bank,3,0.217,12,7,3,22
-Dashen Bank,4,0.414,16,10,0,26
-Dashen Bank,5,0.455,191,69,1,261
+Dashen Bank,4,0.416,18,10,0,28
+Dashen Bank,5,0.456,189,67,1,257
